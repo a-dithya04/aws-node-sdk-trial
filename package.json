@@ -1,0 +1,17 @@
+{
+  "name": "aws-node-sdk-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-codeguru-reviewer": "^3.515.0",
+    "@aws-sdk/client-s3": "^3.515.0"
+  },
+  "type": "module"
+}
