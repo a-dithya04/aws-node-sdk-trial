@@ -23,10 +23,10 @@ const input = { // CreateCodeReviewRequest
                         "BucketName": "NAME OF S3 BUCKET",
                         "CodeArtifacts": {
                         //     "BuildArtifactsObjectKey": "string", //Still not sure about its nature, think its an object key for build file?
-                        "SourceCodeArtifactsObjectKey": "samplehash.py"
+                        "SourceCodeArtifactsObjectKey": "OBJECT KEY TO SOUOCE CODE_ IN OUR CASE FILE NAME"
                         }
                     },
-                    "Name": "samplehash.py"
+                    "Name": "REPO NAME - IN OUR CASE FILE NAME"
                 }
             }
         }
